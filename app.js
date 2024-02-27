@@ -94,3 +94,4 @@ console.log(checkTriangle (1,2,2));
 console.log(checkTriangle (1,1,2));
 console.log(checkTriangle (2,3,4));
 console.log(checkTriangle (2,2,2));
+//
